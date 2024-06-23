@@ -38,9 +38,9 @@ for (let n = 0; n < 5; n++) {
 }
 
 if (humanPoint < computerPoint) {
-    console.log("Computer Wins!");
+    console.log("Computer Wins the Game!");
 } else if (humanPoint > computerPoint) {
-    console.log("Human Wins!");
+    console.log("Human Wins the Game!");
 } else {
     console.log("It's a Tie!");
 }
